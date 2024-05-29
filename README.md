@@ -1,2 +1,5 @@
-# NYCU-Template
-[NYCU 2024 [Fall | Spring]] &lt;Course Name>
+# NYCU-Combinatorial-Mathematics
+
+[NYCU 2024 Spring] Combinatorial-Mathematics
+
+Lecturer: 高孟駿
